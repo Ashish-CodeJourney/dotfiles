@@ -1,0 +1,57 @@
+{
+    "gitlens.views.stashes.files.layout": "list",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "powermode.enabled": true,
+    "powermode.combo.counterEnabled": "hide",
+    "powermode.combo.counterSize": 0,
+    "powermode.shake.enabled": false,
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "switch:command",
+        "stash-push:command"
+    ],
+    "gitlens.advanced.externalDiffTool": "/usr/bin/meld",
+    "git.mergeEditor": true,
+    "editor.fontSize": 16,
+    "continue.enableTabAutocomplete": true,
+    "continue.showInlineTip": false,
+    "git.suggestSmartCommit": false,
+    "editor.minimap.enabled": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.customTitleBarVisibility": "auto",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "explorer.confirmDelete": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.autoSave": "afterDelay",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "scm.showIncomingChanges": "always",
+    "git.openRepositoryInParentFolders": "never",
+    "terminal.integrated.profiles.linux": {
+    
+        "bash": {
+            "path": "/bin/bash",
+            "args": []
+        }
+    },
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.shellIntegration.linux": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.fontFamily": "ComicShannsMono Nerd Font",
+    "terminal.integrated.shellIntegration.enabled": false
+}
